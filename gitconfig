@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fatimaalgambar@gmail.com
+	name = Fatima Algambar
